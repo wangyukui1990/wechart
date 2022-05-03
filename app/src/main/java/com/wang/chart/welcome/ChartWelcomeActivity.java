@@ -38,6 +38,7 @@ public class ChartWelcomeActivity extends ChartBaseActivity implements View.OnCl
     protected void initData() {
         int a=0;
         char b='a';
+        long c=0;
 
     }
 
