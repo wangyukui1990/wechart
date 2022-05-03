@@ -41,6 +41,8 @@ public class ChartWelcomeActivity extends ChartBaseActivity implements View.OnCl
         long c=0;
         int d=0;
         String text="窗含西陵千秋雪，门泊东吴万里船";
+        String one="第一次提交";
+        String two="第二次提交";
 
     }
 
